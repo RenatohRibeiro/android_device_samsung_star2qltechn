@@ -14,4 +14,4 @@ Memory  | 6 GB RAM
 Shipped Android Version | 8.0 (Oreo)
 Storage | 64/128/256 GB
 Battery | Non-removable Li-Ion 3500 mAh battery
-Display | 1440 x 2960 pixels, Super AMOLED,18.5:9 ratio, HDR10 (~570 ppi density)
+Display | 1440 x 2960 pixels, Super AMOLED,18.5:9 ratio, HDR10 (~529 ppi density)
